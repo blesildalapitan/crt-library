@@ -1,0 +1,260 @@
+CRT Library Book Borrowing & Tracking System
+
+
+
+Design a modern, clean, and user-friendly web-based Library Management System UI named “CRT Library Book Borrowing & Tracking System.”
+
+This system is developed to replace manual library logbooks and paper-based borrowing records used in a school library. The goal is to make book borrowing, returning, and tracking faster, more organized, and accurate for librarians and students.
+
+🎯 System Purpose
+
+The system allows librarians to:
+
+Track borrowed and returned books
+
+Check book availability instantly
+
+Record borrower information
+
+Monitor overdue books
+
+Manage transactions efficiently
+
+Reduce manual recording errors
+
+The interface should be simple enough for non-technical users while maintaining a professional academic appearance.
+
+🎨 Design Style & Theme
+
+Create a:
+
+Clean and minimal dashboard interface
+
+Academic and professional school system design
+
+Organized layout with clear navigation
+
+Modern web admin dashboard style
+
+Responsive layout
+
+Color Palette
+
+Primary: Navy Blue (#1E3A8A)
+
+Secondary: Blue (#3B82F6)
+
+Background: Light Gray (#F3F4F6)
+
+Card Background: White (#FFFFFF)
+
+Success Status: Green (#22C55E)
+
+Overdue Status: Red (#EF4444)
+
+Text: Dark Gray (#111827)
+
+✍️ Typography
+
+Headings: Poppins
+
+Body Text: Inter or Roboto
+
+Clear readable font hierarchy
+
+🧭 Layout Structure
+
+Use a dashboard layout with:
+
+Left Sidebar Navigation (240px width)
+
+Top Navigation Bar
+
+Main Content Area
+
+Rounded cards (8–12px radius)
+
+Clean spacing and alignment
+
+📚 Required System Screens
+1. Login Page
+
+Include:
+
+System title/logo
+
+Username field
+
+Password field
+
+Login button
+
+Simple academic background
+
+2. Dashboard (Librarian Panel)
+
+Display summary cards:
+
+Total Books
+
+Borrowed Books
+
+Available Books
+
+Overdue Books
+
+Include:
+
+Recent Transactions table
+
+Search bar
+
+Notifications
+
+Sidebar Navigation:
+
+Dashboard
+
+Books
+
+Borrowers
+
+Borrow Book
+
+Return Book
+
+Overdue Records
+
+Reports
+
+Logout
+
+3. Book Management Page
+
+Features:
+
+Add New Book button
+
+Search and filter options
+
+Table displaying:
+
+Book Title
+
+Author
+
+Category
+
+Status (Available/Borrowed)
+
+Edit and Delete actions
+
+Add/Edit Book modal popup
+
+4. Borrower Management Page
+
+Display:
+
+Student Name
+
+Student ID
+
+Course/Section
+
+Contact Information
+
+Borrow History
+
+5. Borrow Book Page
+
+Form fields:
+
+Book Title (dropdown)
+
+Borrower Name
+
+Date Borrowed
+
+Expected Return Date
+
+Borrow confirmation button
+
+6. Return Book Page
+
+Include:
+
+Borrowed books list
+
+Return confirmation button
+
+Automatic availability update
+
+Success notification popup
+
+7. Overdue Monitoring Page
+
+Display:
+
+Overdue book list
+
+Borrower name
+
+Due date
+
+Days overdue indicator (highlighted red)
+
+📊 Table & Status Design
+
+Use clean tables with status indicators:
+
+Green = Available
+
+Blue = Borrowed
+
+Red = Overdue
+
+💻 Technical Context
+
+The system will be implemented using:
+
+HTML for webpage structure
+
+CSS for interface design
+
+MySQL database for storing:
+
+Book details
+
+Student records
+
+Borrowing transactions
+
+Return records
+
+Design should reflect a realistic student-developed academic information system.
+
+⭐ User Experience Goal
+
+The interface should:
+
+Save librarian time
+
+Prevent record loss
+
+Improve transaction accuracy
+
+Organize library data efficiently
+
+Provide fast information access
+
+🎓 Expected Output
+
+Generate:
+
+High-fidelity web dashboard UI
+
+Organized page hierarchy
+
+Professional academic system appearance
+
+Ready-to-develop layout design
